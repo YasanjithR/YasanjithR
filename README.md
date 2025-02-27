@@ -46,11 +46,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasanjithR&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasanjithR&layout=compact&theme=white"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasanjithR&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasanjithR&theme=white"/>
 </p>
 
 ---
